@@ -34,12 +34,11 @@ font-size:14px;
 }
 
 /* HERO */
-.hero{
-display:flex;
-align-items:center;
-justify-content:space-between;
-padding:80px 8%;
-gap:40px;
+.hero img{
+width:260px;
+height:260px;
+object-fit:cover;
+border-radius:20px;
 }
 
 .hero img{
